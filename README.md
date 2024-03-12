@@ -8,12 +8,11 @@ Infrastructure: Operation Driven Approach
 + [Human-Centric Solutions - WETWARE.DEV: DigitalTwin](http://www.wetware.dev)
 + [Modular-Centric Solutions - MODWARE.ORG: Dialogware, textware.org](https://www.modware.org)
 + [Agent-Centric Solutions - TeleOperator.org: agent services Gaiann.com, Edi.Chat, do.camera, sub.actor](http://www.TeleOperator.org)
-+ [Interface-Centric Solutions - audio, video, text: VoCo.Cam](http://leadership.run/INTERFACE)
-+ [Process-Centric Solutions - Automation](http://leadership.run/PROCESS)
-+ [Service-Centric Solutions - Software Requirement: SaaSisKing.com](http://www.SaaSisKing.com)
-+ [Software-Centric Solutions - Deployment Delivery: Dialogware.com](http://docs.Dialogware.com/SOFTWARE)
++ [Interface-Centric Solutions - INTERFACE audio, video, text: VoCo.Cam](http://leadership.run/INTERFACE)
++ [Service-Centric Solutions - SaaSisKing.com - Software Requirements](http://www.SaaSisKing.com)
++ [Software-Centric Solutions - Dialogware.com - Modular Software](http://docs.Dialogware.com/SOFTWARE)
 + [Infrastructure-Centric Solutions - ModDevOps.com: Operations, Domains, DNS, CDN, Dynapsys](http://www.ModDevOps.com)
-+ [Security-Centric Solutions - cyberpolygon.org: Incidents Detection, Prevention, Monitoring](http://www.cyberpolygon.org)
++ [Security-Centric Solutions - CyberPolygon.org: Incidents Detection, Prevention, Monitoring](http://www.cyberpolygon.org)
 
 + [SDLC: softreck.dev](http://leadership.run/SDLC)
 
